@@ -1,0 +1,1 @@
+# Namaz-Vakti-Adhan-Dhikr-Privacy-Policy
