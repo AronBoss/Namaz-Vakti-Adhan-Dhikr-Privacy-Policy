@@ -83,4 +83,19 @@ This Privacy Policy may be updated from time to time. Any changes will become ef
 
 If you have any questions or concerns regarding this Privacy Policy, please contact:
 
+9. Data Retention and Deletion
+
+The app does not store personal user data on external servers.
+
+Location data is used temporarily on the device to calculate prayer times.
+Prayer notification preferences and app settings are stored locally on the user’s device only.
+No personal data is collected, stored, or shared by the developer.
+
+Users can remove all app data at any time by:
+
+Clearing the app data from device settings
+Uninstalling the application
+
+For privacy-related questions, users may contact:
+
 📧 aron2jz@gmail.com
